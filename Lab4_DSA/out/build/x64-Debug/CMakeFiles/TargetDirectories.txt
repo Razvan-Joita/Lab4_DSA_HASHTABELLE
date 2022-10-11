@@ -1,0 +1,3 @@
+C:/Users/Răzvan Joiţa/Desktop/DSA_SCRIS+Laburi/Lab4_DSA/out/build/x64-Debug/CMakeFiles/Lab4_DSA.dir
+C:/Users/Răzvan Joiţa/Desktop/DSA_SCRIS+Laburi/Lab4_DSA/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Răzvan Joiţa/Desktop/DSA_SCRIS+Laburi/Lab4_DSA/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
